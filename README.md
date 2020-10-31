@@ -1,5 +1,5 @@
-# API-Usability-in-Game-Engines-100-repos
-Results of API usability analysis on 100 Game Engine Repositories
+# API-Usability-in-Game-Engines-95-repos
+Results of API usability analysis on 95 Game Engine Repositories
 
 The file "API Usability in GEs.xlsx" consists of repository wise scores for each of the usability metrics, along with average metric score (in Sheet named : "Results").
 It also consists the range-wise distribution summary and corresponding plots in "Range-wise distribution summary and Plots" Sheet
